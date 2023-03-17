@@ -1,6 +1,6 @@
 # Biorepository Data Wrangling
 
-This cookiecutter creates a simple boilerplate for a Jupyter Book.
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](<https://bdunnette.github.io/biorepository_data_wrangling/>)
 
 ## Usage
 
