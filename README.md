@@ -1,6 +1,6 @@
 # Biorepository Data Wrangling
 
-[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](<https://bdunnette.github.io/biorepository_data_wrangling/>)
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](<https://bdunnette.github.io/biorepository_data_wrangling/>)[![deploy](https://github.com/bdunnette/biorepository_data_wrangling/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/bdunnette/biorepository_data_wrangling/actions/workflows/deploy.yml)
 
 ## Usage
 
