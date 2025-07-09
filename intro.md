@@ -18,31 +18,8 @@ In this guide, you will learn:
 - The basics of biorepository data management
 - Techniques for cleaning and transforming biorepository data
 - How to handle common data issues such as missing values and duplicates
-- Best practices for organizing and documenting biorepository data
 - Tools and libraries commonly used for biorepository data wrangling, such as Pandas and NumPy
 - How to visualize and analyze biorepository data using Python
-- Tips for collaborating with other researchers and sharing biorepository data
-
-## Getting Started
-
-To get started, make sure you have the necessary tools installed on your computer. You will need:
-- Python (version 3.6 or higher)
-- Jupyter Notebook (for interactive coding and visualization)
-- Pandas (for data manipulation and analysis)
-- NumPy (for numerical computing)
-- Matplotlib and Seaborn (for data visualization)
-
-Windows users can install Python from the Microsoft Store: https://apps.microsoft.com/detail/9NQ7512CXL7T?hl=en-us&gl=US&ocid=pdpshare
-
-Mac and Linux users can install Python using their package manager or download it from the official Python website: https://www.python.org/downloads/
-
-Once you have Python installed, you can install the necessary libraries using pip. Open a terminal or command prompt and run the following command:
-
-```
-pip install jupyter pandas numpy matplotlib seaborn
-```
-
-Once you have the necessary tools installed, you can start exploring and wrangling biorepository data!
 
 ## How to Use This Guide
 
@@ -55,10 +32,12 @@ Feel free to skip around to sections that interest you, but we recommend startin
 We welcome feedback and contributions to this guide! If you have suggestions for improving the content or if you would like to contribute your own examples or exercises, please reach out to us.
 You can find the source code for this guide on GitHub at [bdunnette/biorepository-data-wrangling](https://github.com/bdunnette/biorepository-data-wrangling) and submit a pull request.
 
+## License
+
+This guide is licensed under a [CC-SA 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt the content, provided you give appropriate credit, indicate if changes were made, and distribute your contributions under the same license.
+
 ## Acknowledgments
 
 We would like to thank the contributors and maintainers of the open-source libraries used in this guide, including [Pandas](xref:pandas), [NumPy](xref:numpy), [Matplotlib](xref:matplotlib), and [Seaborn](xref:seaborn). Your hard work and dedication make data analysis and visualization more accessible to everyone.
 
-## License
-
-This guide is licensed under a CC-NC 4.0 International License. You are free to share and adapt the material, but please provide appropriate attribution and do not use it for commercial purposes.
+We also acknowledge the support of the [University of Minnesota Advanced Research and Diagnostic Laboratory](https://med.umn.edu/pathology/research/ardl) for providing resources and expertise in biorepository data management.
