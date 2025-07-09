@@ -57,7 +57,7 @@ You can find the source code for this guide on GitHub at [bdunnette/biorepositor
 
 ## Acknowledgments
 
-We would like to thank the contributors and maintainers of the open-source libraries used in this guide, including Pandas, NumPy, Matplotlib, and Seaborn. Your hard work and dedication make data analysis and visualization more accessible to everyone.
+We would like to thank the contributors and maintainers of the open-source libraries used in this guide, including [Pandas](xref:pandas), [NumPy](xref:numpy), [Matplotlib](xref:matplotlib), and [Seaborn](xref:seaborn). Your hard work and dedication make data analysis and visualization more accessible to everyone.
 
 ## License
 

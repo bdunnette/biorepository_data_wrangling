@@ -6,15 +6,20 @@ project:
   description: A comprehensive (comprehensible?) guide for working with biorepository data, including data wrangling and management techniques.
   keywords: [biorepository, data science, data wrangling, data management, data analysis, data visualization, reproducibility]
   references:
-    python: https://docs.python.org/3
+    python: https://docs.python.org/3/
     pandas: https://pandas.pydata.org/docs/
+    numpy: https://numpy.org/doc/stable/
+    matplotlib: https://matplotlib.org/stable/
+    seaborn: https://seaborn.pydata.org/
+    scikit-learn: https://scikit-learn.org/stable/
+    faker: https://faker.readthedocs.io/en/master/
+    duckdb: https://duckdb.org/docs/
   authors: 
     name: Brian Dunnette
     email: dunn0172@umn.edu
     github: bdunnette
     affiliations:
       - id: umn-ardl
-        name: University of Minnesota, Advanced Research and Diagnostic Laboratory
         institution: University of Minnesota
         department: Department of Laboratory Medicine and Pathology
         url: https://med.umn.edu/pathology/research/ardl
