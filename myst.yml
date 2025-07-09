@@ -4,7 +4,10 @@ project:
   id: 70026c56-6df3-4695-bde3-ea9001544181
   title: Biorepository Data Wrangling
   description: A comprehensive (comprehensible?) guide for working with biorepository data, including data wrangling and management techniques.
-  keywords: [biorepository, data science, pandas, data wrangling, data management]
+  keywords: [biorepository, data science, data wrangling, data management, data analysis, data visualization, reproducibility]
+  references:
+    python: https://docs.python.org/3
+    pandas: https://pandas.pydata.org/docs/
   authors: 
     name: Brian Dunnette
     email: dunn0172@umn.edu
