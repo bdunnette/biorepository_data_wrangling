@@ -5,7 +5,16 @@ project:
   title: Biorepository Data Wrangling
   description: A comprehensive (comprehensible?) guide for working with biorepository data, including data wrangling and management techniques.
   keywords: [biorepository, data science, pandas, data wrangling, data management]
-  authors: [Brian Dunnette]
+  authors: 
+    name: Brian Dunnette
+    email: dunn0172@umn.edu
+    github: bdunnette
+    affiliations:
+      - id: umn-ardl
+        name: University of Minnesota, Advanced Research and Diagnostic Laboratory
+        institution: University of Minnesota
+        department: Department of Laboratory Medicine and Pathology
+        url: https://med.umn.edu/pathology/research/ardl
   github: https://github.com/bdunnette/biorepository_data_wrangling
   license: CC-BY-SA-4.0
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
