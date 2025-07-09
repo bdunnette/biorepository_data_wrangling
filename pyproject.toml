@@ -9,6 +9,7 @@ dependencies = [
     "jupyter>=1.1.1",
     "jupyter-book>=2.0.0a0",
     "pandas[compression,excel,parquet,plot]>=2.3.1",
+    "seaborn>=0.13.2",
 ]
 
 [dependency-groups]

@@ -517,7 +517,9 @@ matplotlib==3.10.3 \
     --hash=sha256:dbed9917b44070e55640bd13419de83b4c918e52d97561544814ba463811cbc7 \
     --hash=sha256:ed70453fd99733293ace1aec568255bc51c6361cb0da94fa5ebf0649fdb2150a \
     --hash=sha256:f6929fc618cb6db9cb75086f73b3219bbb25920cb24cee2ea7a12b04971a4158
-    # via pandas
+    # via
+    #   pandas
+    #   seaborn
 matplotlib-inline==0.1.7 \
     --hash=sha256:8423b23ec666be3d16e16b60bdd8ac4e86e840ebd1dd11a30b9f117f2fa0ab90 \
     --hash=sha256:df192d39a4ff8f21b1895d72e6a13f5fcc5099f00fa84384e0ea28c2cc0653ca
@@ -604,6 +606,7 @@ numpy==2.3.1 \
     #   contourpy
     #   matplotlib
     #   pandas
+    #   seaborn
 odfpy==1.4.1 \
     --hash=sha256:db766a6e59c5103212f3cc92ec8dd50a0f3a02790233ed0b52148b70d3c438ec
     # via pandas
@@ -649,7 +652,9 @@ pandas==2.3.1 \
     --hash=sha256:e5635178b387bd2ba4ac040f82bc2ef6e6b500483975c4ebacd34bec945fda12 \
     --hash=sha256:ec6c851509364c59a5344458ab935e6451b31b818be467eb24b0fe89bd05b6b9 \
     --hash=sha256:fe37e757f462d31a9cd7580236a82f353f5713a80e059a29753cf938c6775d96
-    # via biorepository-data-wrangling2
+    # via
+    #   biorepository-data-wrangling2
+    #   seaborn
 pandocfilters==1.5.1 \
     --hash=sha256:002b4a555ee4ebc03f8b66307e287fa492e4a77b4ea14d3f934328297bb4939e \
     --hash=sha256:93be382804a9cdb0a7267585f157e5d1731bbe5545a85b268d6f5fe6232de2bc
@@ -1020,6 +1025,10 @@ rpds-py==0.26.0 \
     # via
     #   jsonschema
     #   referencing
+seaborn==0.13.2 \
+    --hash=sha256:636f8336facf092165e27924f223d3c62ca560b1f2bb5dff7ab7fad265361987 \
+    --hash=sha256:93e60a40988f4d65e9f4885df477e2fdaff6b73a9ded434c1ab356dd57eefff7
+    # via biorepository-data-wrangling2
 send2trash==1.8.3 \
     --hash=sha256:0c31227e0bd08961c7665474a3d1ef7193929fedda4233843689baa056be46c9 \
     --hash=sha256:b18e7a3966d99871aefeb00cfbcfdced55ce4871194810fc71f4aa484b953abf
