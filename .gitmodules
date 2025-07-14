@@ -1,0 +1,3 @@
+[submodule "faker_biospecimen"]
+	path = faker_biospecimen
+	url = https://github.com/bdunnette/faker_biospecimen.git
