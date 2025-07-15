@@ -2,3 +2,4 @@
 _build/
 .ruff_cache/
 __pycache__/
+output/
